@@ -70,10 +70,8 @@ public class function {
 						w.m();
 						System.out.print('\n');
 					}
-					else if(f==1)
+					if(f==1)
 						System.out.println("格式不正确，无法进行计算");
-					//System.out.print(si_m.ele.size());
-					//System.out.print(si_m.ele.get(0).e);
 				}
 				break;
 			case 3:
